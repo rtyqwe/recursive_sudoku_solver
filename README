@@ -1,1 +1,19 @@
-read
+README FOR RECURSIVE SUDOKU SOLVER
+
+*as the hackerrank requirement is to make the code as compact as possible, sudoku.cpp is basically a two-line program, please refer to sudoku_readable.cpp for clearer presentation.
+
+Input:
+N
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+
+------------------------------
+N = no. test cases
+x = number from 1 - 9 (9x9 per test case)
